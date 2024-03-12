@@ -1,0 +1,3 @@
+Meme Generator Project
+
+Developed an interactive web application that enables users to create custom memes with ease. The platform provides a user-friendly interface where individuals can select from a variety of templates or upload their own images to personalize their creations. The application supports adding and customizing text, including font style and color, to craft unique and humorous content. Designed with responsiveness in mind, the Meme Generator ensures compatibility across different devices and screen sizes, enhancing the user experience. This project showcases proficiency in front-end development and a keen understanding of user-centric design.
